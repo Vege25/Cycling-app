@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068643598476",
+    "project_id": "cycling-app-dd1d4",
+    "storage_bucket": "cycling-app-dd1d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068643598476:android:1504492c7ef34ddb5a7ba9",
+        "android_client_info": {
+          "package_name": "com.example.cyclingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068643598476-p1n28gv4792numeat4bc8s515ubo8iic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9aN025irNkRO7iMaH13d9KyPh0I5ULs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068643598476-p1n28gv4792numeat4bc8s515ubo8iic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
